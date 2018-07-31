@@ -21,7 +21,7 @@ pip3 install espnff
 With Git:
 
 ```bash
-git clone https://github.com/D3LLIS/espnff
+git clone https://github.com/D3LLIS/espnff_DE
 
 cd espnff
 
